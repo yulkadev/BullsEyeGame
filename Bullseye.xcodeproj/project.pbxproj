@@ -13,6 +13,7 @@
 		330B69C01DECB182001096EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 330B69BF1DECB182001096EC /* Assets.xcassets */; };
 		330B69C31DECB182001096EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 330B69C11DECB182001096EC /* LaunchScreen.storyboard */; };
 		33CCF1301DECDE5D008D1499 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33CCF12F1DECDE5D008D1499 /* AboutViewController.swift */; };
+		33CCF1321DEDF802008D1499 /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = 33CCF1311DEDF802008D1499 /* BullsEye.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		330B69C21DECB182001096EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		330B69C41DECB182001096EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		33CCF12F1DECDE5D008D1499 /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		33CCF1311DEDF802008D1499 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = BullsEye.html; path = ../../../Downloads/BeginnningiOS10Part1_09_EmbeddingTheWeb_StudentMaterials/demo/complete/BullsEye/BullsEye/BullsEye.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				330B69B81DECB182001096EC /* AppDelegate.swift */,
 				330B69BA1DECB182001096EC /* ViewController.swift */,
 				330B69BC1DECB182001096EC /* Main.storyboard */,
+				33CCF1311DEDF802008D1499 /* BullsEye.html */,
 				33CCF12F1DECDE5D008D1499 /* AboutViewController.swift */,
 				330B69BF1DECB182001096EC /* Assets.xcassets */,
 				330B69C11DECB182001096EC /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				330B69C31DECB182001096EC /* LaunchScreen.storyboard in Resources */,
+				33CCF1321DEDF802008D1499 /* BullsEye.html in Resources */,
 				330B69C01DECB182001096EC /* Assets.xcassets in Resources */,
 				330B69BE1DECB182001096EC /* Main.storyboard in Resources */,
 			);
